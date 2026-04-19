@@ -37,10 +37,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Padrões em licitações públicas (TCC)](https://github.com/emillyhino) | Clustering e regras de associação em dados do Portal da Transparência | Python, Scikit-learn, Pandas |
-| [ETL com API PNCP](https://github.com/emillyhino) | Pipeline de coleta e tratamento de dados de compras públicas | Python, SQLite, Requests |
-| [Dashboard IBGE/SIDRA](https://github.com/emillyhino) | Visualização interativa de indicadores socioeconômicos regionais | Streamlit, Plotly, Pandas |
-
+| [Mineração em licitações públicas](https://github.com/emillyhino/data-mining-licitacoes-publicas) | Clustering e regras de associação em dados do Portal da Transparência | Python, Scikit-learn, Pandas |
+| [Risco fiscal em municípios brasileiros](https://github.com/emillyhino/ml-risco-fiscal-municipios) | Classificação de risco fiscal em 2.473 municípios com dados reais do FINBRA | Python, Random Forest, Matplotlib |
+| [Dashboard PIB per capita](https://github.com/emillyhino/dashboard-pib-regioes) | Visualização interativa de PIB per capita por região do Brasil | Streamlit, Plotly, Pandas |
 ---
 
 ### 📊 GitHub Stats
