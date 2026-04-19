@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Emilly Hino 👩‍💻</h1>
 
 <p align="center">
-  Cientista de dados · João Pessoa, PB · UFPB — CDIA
+  Cientista de dados · João Pessoa, PB 
 </p>
 
 <p align="center">
