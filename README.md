@@ -55,4 +55,4 @@
 
 💼 Aberta a oportunidades em dados (júnior / trainee)  
 📍 João Pessoa, PB — disponível para remoto  
-🔗 [LinkedIn](https://linkedin.com/in/emillyhino)
+🔗 [https://www.linkedin.com/in/emilly-noriko-h-3626b1128/)
